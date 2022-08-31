@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+
+.swal-title, .swal-text {
+  color : #000;
+}
+
+.swal-button--cancel{
+  color : #000;
+}
+
+.swal-button--confirm {
+  color : #fff;
+}
